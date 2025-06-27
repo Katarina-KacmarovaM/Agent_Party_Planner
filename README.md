@@ -72,11 +72,6 @@ agent = CodeAgent(
 - `smolagents`
 - `huggingface_hub`
 
----
-
-## License
-
-MIT License
 
 ---
 
