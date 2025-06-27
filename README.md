@@ -1,8 +1,8 @@
 # Agent Party Planner 🎉
 
-***Get ready to throw the ultimate bash! This project shows off how to build a fun, multi-step AI agent using the awesome [smolagents](https://github.com/bigscience-workshop/smol-agents) framework.***
+**Get ready to throw the ultimate bash! This project shows off how to build a fun, multi-step AI agent using the awesome [smolagents](https://github.com/bigscience-workshop/smol-agents) framework.**
 
-***From tasty menus and dazzling decorations to stylish dress codes and exciting activities – this agent got your party covered! Let’s celebrate smarter! 🥳***
+**From tasty menus and dazzling decorations to stylish dress codes and exciting activities – this agent got your party covered! Let’s celebrate smarter! 🥳**
 ---
 
 ## Features
